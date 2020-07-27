@@ -2,10 +2,10 @@
 
 ## Learn JAVA Lang.
 
-**hello-world.java**, the classic first file.
+**Hello.java**, the classic first file.
 
-**types.java**, describes the types in JAVA
+**TypesInJava.java**, describes the types in JAVA
 
-**types-casting.java**, for type casting in JAVA
+**TypeCasting.java**, for type casting in JAVA
 
-In **string.java** there are some methods for the strings
+In **StringMeth.java** there are some methods for the strings
