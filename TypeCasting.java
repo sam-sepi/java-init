@@ -33,8 +33,5 @@ public class TypeCasting
         double ris = d + s + l;
 
         System.out.println(ris);
-
-        char a = 'A';
-        //String s = (String)a; 38: error: incompatible types: char cannot be converted to String
     }
 }
