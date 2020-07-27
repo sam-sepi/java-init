@@ -1,7 +1,7 @@
 public class TypesInJava
 {
     /**
-     * TYPES
+     * PRIMITIVE
      */
 
     // A primitive data type specifies the size and type of variable values, and it has no additional methods.
@@ -23,8 +23,15 @@ public class TypesInJava
     /**
      * STRING
      */
+
     //The String data type is used to store a sequence of characters (text). String values must be surrounded by double quotes:
     String myText = "Hello World";  // String 
+
+    /**
+     * CONSTANT
+     */
+    //A constant is a variable whose value cannot change once it has been assigned. Java doesn't have built-in support for constants.
+    final float pi = 3.14f;
 
     /**
      * main
@@ -35,5 +42,8 @@ public class TypesInJava
 
         System.out.println(t.myText);
         System.out.println(t.myByte);
+        System.out.println(t.pi);
+
+        //t.pi = 2; -> types.java:47: error: cannot assign a value to final variable pi
 	}
 }
