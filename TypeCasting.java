@@ -25,6 +25,7 @@ public class TypeCasting
 
         System.out.println(myDouble);   // Outputs 9.78
         System.out.println(myInt);      // Outputs 9
+        System.out.println(ct);         //Out. 9
 
         char d = 'd';
         short s = 444;
