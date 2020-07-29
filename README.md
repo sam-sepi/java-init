@@ -10,4 +10,5 @@
 
 In **StringMeth.java** there are some methods for the strings
 
-**ConditionalStatements.java** describes if, else and ternary operator.
+**ConditionalStatements.java** describes *Conditions, If Statements and ternary operator*.
+
