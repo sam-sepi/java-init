@@ -12,3 +12,4 @@ In **StringMeth.java** there are some methods for the strings
 
 **ConditionalStatements.java** describes *Conditions, If Statements and ternary operator*.
 
+**SwitchStat.java** for the switch stat.
