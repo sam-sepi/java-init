@@ -19,3 +19,5 @@ In **StringMeth.java** there are some methods for the strings
 **SwitchStat.java** for the switch stat.
 
 In **ArrayInJava.java** you will find an overview of the java arrays
+
+In **LoopsInJava.java** you can read how to create java loops

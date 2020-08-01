@@ -30,7 +30,10 @@ public class ArrayInJava
     {
         ArrayInJava aij = new ArrayInJava();
 
-        aij.a = new int[5];
+        /**
+         * Array in memory
+         */
+        aij.a = new int[4]; //4 bytes * 4 (16 bytes) int. elements + 12 bytes di object header (ID, flag status, etc.) + 4 bytes padding (for 8 multipl.)
 
         System.out.println(aij.a.length);
 
