@@ -50,7 +50,6 @@
 public class OperatorsInJava
 {
     int myInt = 34;
-
     boolean myBool = true;
 
     public static void main(String[] args) 

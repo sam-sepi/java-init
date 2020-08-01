@@ -20,7 +20,9 @@ public class ArrayInJava
     //To create a two-dimensional array, add each array within its own set of curly braces
 
     int bid[][] = { {1, 2, 3}, {4, 5, 6} };
-    String[][] namesAndnick = { 
+
+    //multidim. array string
+    String[][] namesAndNick = { 
         {"Sam", "John"}, {"Dilettante", "Doe"} 
     };
 
@@ -49,6 +51,6 @@ public class ArrayInJava
 
         //bidimens. array
         System.out.println(aij.bid[0][1]);
-        System.out.println(aij.namesAndnick[0][1]);
+        System.out.println(aij.namesAndNick[0][1]);
     }
 }

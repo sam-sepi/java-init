@@ -2,6 +2,8 @@
 
 ## Learn JAVA Lang.
 
+A set of files for learning the Java language
+
 ### In the *dummies* folder
 
 **Hello.java**, the classic first file.
