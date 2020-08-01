@@ -2,7 +2,7 @@
 
 ## Learn JAVA Lang.
 
-A set of files for learning the Java language
+A set of files for learning the Java language.
 
 ### In the *dummies* folder
 
