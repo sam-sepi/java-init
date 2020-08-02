@@ -35,9 +35,17 @@ Catthulhu.java Catacrobat Pussyfoot Scrapper Tiger Twofoot
 Print:
 
 ```
-With ease, can climb a rough wall, leap a fence, slip out of sight of a human, slip through a closing door, walk a rope
+With ease, can climb a rough wall, leap a fence, slip out of sight of a human, 
+slip through a closing door, walk a rope
+
 With ease, can appeal for help, beg for food, distract a human, recognize exotic food
-With ease, can bite through a string, catch a mouse or baby bird, scare off some kittens, land a surprise blow.
-With ease, can comfort a human, interrupt a magic ritual, notice unnatural behavior, recognize that a pattern is mystical.
-With ease, can distinguish car keys from house keys, flip a switch, flush a toilet, pull open a kitchen cabinet, pull out an electrical plug.
+
+With ease, can bite through a string, catch a mouse or baby bird, scare off some kittens, 
+land a surprise blow.
+
+With ease, can comfort a human, interrupt a magic ritual, notice unnatural behavior, 
+recognize that a pattern is mystical.
+
+With ease, can distinguish car keys from house keys, flip a switch, flush a toilet, 
+pull open a kitchen cabinet, pull out an electrical plug.
 ```
